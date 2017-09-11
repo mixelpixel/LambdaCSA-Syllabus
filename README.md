@@ -33,16 +33,17 @@
   - [Auth](#project82)
 
 - [Week 9](#week9)
+  - [LS-Greenfield](#project??)
   - [Client Auth](#project91)
-  - [Server Testing](#project92)
 
 - [Week 10](#week10)
-  - [DevOps & Deployment](#project101)
+  - [Server Testing](#project92)
   - [React Native I](#project102)
 
 - [Week 11](#week11)
+  - [DevOps & Deployment](#project101)
   - [React Native II](#project111)
-  - [React Native III](#project112)
+  <!--- [React Native III](#project112) -->
 
 - [Week 12](#week12)
   - [Break Week + Personal Project](#project121)
